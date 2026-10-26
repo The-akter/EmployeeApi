@@ -5,10 +5,10 @@ This is employee API automation project. This project is facilitated  to create 
 generate newman reporting. 
 
 ## Pre-requisite 
--Node.js
+- Node.js
 
 ## Tools & Technology
 - Postman
--Visual Studio Code
+- Visual Studio Code
 
 ## API Documentation [Employee API Documentation](https://documenter.getpostman.com/view/50520270/2sBYHURyvb)
