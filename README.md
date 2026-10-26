@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/c0a7d597-9ef5-4bc5-bf46-4398703c9c66
 ## SQALOGY API AUTOMATION PROJECT WITH NEWMAN REPORTING
 
 ## About this project 
