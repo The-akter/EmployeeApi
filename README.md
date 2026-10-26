@@ -12,3 +12,9 @@ generate newman reporting.
 - Visual Studio Code
 
 ## API Documentation [Employee API Documentation](https://documenter.getpostman.com/view/50520270/2sBYHURyvb)
+
+## How To Run This Project
+```Clone Project```
+```bash 
+https://github.com/The-akter/EmployeeApi.git
+```
