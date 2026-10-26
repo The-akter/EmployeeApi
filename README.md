@@ -14,7 +14,27 @@ generate newman reporting.
 ## API Documentation [Employee API Documentation](https://documenter.getpostman.com/view/50520270/2sBYHURyvb)
 
 ## How To Run This Project
-```Clone Project```
+**```Clone Project```**
 ```bash 
 https://github.com/The-akter/EmployeeApi.git
 ```
+
+**Hit the command**
+
+```bash
+npm init -y
+```
+
+```bash
+npm i newman
+```
+```bash
+npm newman run [collection] -e ["environment"]
+```
+```bash
+npm i newman-reporter-htmlextra
+```
+```bash
+node .\report.js
+```
+
