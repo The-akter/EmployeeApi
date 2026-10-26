@@ -43,6 +43,7 @@ node .\report.js
 <img width="1057" height="671" alt="test_cases" src="https://github.com/user-attachments/assets/1769c457-05f4-474d-960c-84673f0b6c29" />
 <img width="702" height="712" alt="newman report" src="https://github.com/user-attachments/assets/078ab772-1b63-4454-9dec-2fe877105bf6" />
 
+## Bug Reporting [Bug Report](https://samia17.atlassian.net/jira/software/projects/ATAT/boards/3?filter=&groupBy=none)
 
 
 
